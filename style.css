@@ -2,6 +2,10 @@
     font-size: 14px;
 }
 
+div {
+    background-color: red;
+}
+
 body {
     background-color: aqua;
 }
